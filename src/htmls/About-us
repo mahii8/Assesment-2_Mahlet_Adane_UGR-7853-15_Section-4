@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Eclipse Atrium </title>
+    <link rel="stylesheet" href="./src/css/styles.css" />
+  </head>
+  <body>
+    <header>
+      <h3>Let the art eclipse your expectations.</h3>
+      <h1><span>Eclipse Atrium</span> Boutique</h1>
+      <nav>
+        <ul>
+          <li><a href="./index.html">Home</a></li>
+          <li><a href="./src/html/About-us.html">About Us</a></li>
+          <li><a href="./src/html/contact.html">Contact Us</a></li>
+        </ul>
+      </nav>
+    </header>
+    <section class="ABOUT">
+        <div class="about-name">
+          <div>
+            <h2>About Our Gallery Name</h2>
+            <p>
+              <span
+                >Eclipse Atrium symbolizes the transformative power of art. "Eclipse" represents the rare and extraordinary interplay of light and shadow, while "Atrium" evokes a welcoming space for connection and creativity. Together, they define a gallery where art transcends boundaries, inspiring awe and unity.</span
+              >
+            </p>
+            <p>
+              <br />Eclipse Atrium is a name that reflects the transformative and unifying power of art. The word "Eclipse" symbolizes rare, extraordinary moments where light and shadow merge, much like the way art reveals hidden beauty and challenges perceptions. It embodies mystery, wonder, and the potential for profound transformation.
+
+                "Atrium" conveys the idea of an open, inviting space where people gather to share ideas, experiences, and creativity. It represents connection, growth, and a sense of community—qualities that lie at the heart of the gallery’s mission.
+
+            Together, Eclipse Atrium captures the spirit of a space where boundaries dissolve, innovation thrives, and art serves as a bridge between worlds, inspiring awe and sparking meaningful dialogue.
+            </p>
+          </div>
+          <div>
+            <h2>Our Mission</h2>
+            <p>
+              <span
+                >Eclipse Atrium’s mission is to celebrate bold creativity and transformative expression by providing a space where art transcends boundaries and inspires connection. We aim to empower artists, engage audiences, and foster a deeper appreciation for the limitless potential of artistic exploration.</span
+              >
+            </p>
+            <br />
+            <p>
+                At Eclipse Atrium, we believe in the power of art to transform perspectives, evoke emotions, and unite people across cultures and experiences. Our mission is to create a sanctuary where artists can push the boundaries of creativity, experimenting with new forms and ideas that challenge conventions.
+
+                We are committed to curating diverse, thought-provoking exhibitions and events that celebrate both emerging and established voices. Through immersive experiences, workshops, and intimate conversations with artists, we aim to engage audiences on a personal level, inspiring curiosity and dialogue.
+                
+                Beyond showcasing art, Eclipse Atrium strives to be a hub for community and collaboration. We support creators in their journeys by providing resources, opportunities, and an inclusive platform where their visions can shine. Our ultimate goal is to enrich lives by fostering a deep, lasting connection with the transformative power of art.
+            </p>
+          </div>
+        </div>
+    <div class="sidebar-menu">
+        <div class="Sidebar">
+          <h2>Sidebar Menu</h2>
+          <nav>
+            <ul>
+              <li><a href="../../index.html">Home</a></li>
+              <li><a href="./About-us.html">About Us</a></li>
+              <li><a href="./contact.html">Contact Us</a></li>
+            </ul>
+          </nav>
+        </div>
+        <div>
+          <h2>Sponsors</h2>
+
+          <div>
+            <h3>Lumina Ventures</h3>
+            <p>
+                Illuminating Art, Innovating Tomorrow <br>
+                Lumina Ventures is a forward-thinking investment company that specializes in supporting creative industries and technology-driven solutions. With a passion for art and innovation, Lumina Ventures believes in fostering collaborations that bridge art and tech to craft a brighter future. Their sponsorship helps Eclipse Atrium deliver cutting-edge exhibitions and workshops that merge traditional artistry with modern technology, making the gallery a beacon of creative evolution.
+            </p>
+          </div>
+          <div>
+            <h3>Aurora Artisan Collective
+            </h3>
+            <p>
+                Empowering Artists, Enriching Communities
+                Aurora Artisan Collective is a global network of craftsmen, designers, and creators dedicated to preserving and evolving traditional artistry. They work to provide platforms and resources for artisans from underrepresented backgrounds, ensuring their voices and visions reach wider audiences. Their partnership with Eclipse Atrium enables the gallery to showcase a diverse array of global talent and bring culturally rich narratives to the forefront.
+            </p>
+          </div>
+
+          <div>
+            <h3>Ethereal Edge Studio</h3>
+            <p>
+                Designing Worlds, Inspiring Visions
+                Ethereal Edge Studio is a boutique design firm known for creating breathtaking environments and immersive experiences. With expertise in event design, lighting, and architectural installations, the studio brings unparalleled aesthetic finesse to every collaboration. As a sponsor, Ethereal Edge Studio contributes its expertise to Eclipse Atrium's exhibits, ensuring the space remains an ever-evolving, visually stunning realm for art enthusiasts and creators alike.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <div class="ourfooter">
+        <div>
+          <h2>Image Gallery</h2>
+          <div class="image-container">
+            <div>
+              <img src="./src/images/image1.jpg" alt="" /><img
+                src="./src/images/image2.jpg"
+                alt=""
+              /><img src="./src/images/image3.jpg" alt="" />
+            </div>
+            <div>
+              <img src="./src/images/image4.jpg" alt="" /><img
+                src="./src/images/image5.jpg"
+                alt=""
+              /><img src="./src/images/image6.jpg" alt="" />
+            </div>
+          </div>
+        </div>
+        <div>
+          <h2>About</h2>
+          <div>
+            <div class="about-footer">
+              <img src="./src/images/image5.jpg" alt="" />
+              <p>
+                Welcome to Eclipse Atrium, a space where the boundaries of art dissolve into shadow and light, where every piece tells a story that bridges worlds.
+            
+              </p>
+            </div>
+
+            <p>
+                Eclipse Atrium is where art transcends boundaries, blending shadow and light into unforgettable experiences. We celebrate bold creativity, hosting immersive exhibitions and events that inspire and connect. Step into our world and explore the extraordinary.
+            </p>
+          </div>
+        </div>
+        <div class="ourcontact">
+          <h2>Contact</h2>
+          <p>If you have any questions or inquiries, feel free to contact us:</p>
+          <div>
+            <p><span>Phone: </span>+123 456 789</p>
+            <p><span>Address: </span>  123 Art Street, Creative City, ArtLand</p>
+            <p><span>Email: </span><a href="mailto:info@eclipseatrium.com">info@eclipseatrium.com</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="dark-footer">
+        <h2>&copy; 2024 Eclipse Atrium. Designed by Mahlet Adane</h2>
+        <nav>
+          <ul>
+            <li><a href="#HOME">Home</a></li>
+            <li><a href="./src/html/About-us.html">About Us</a></li>
+            <li><a href="./src/html/contact.html">Contact Us</a></li>
+          </ul>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>
